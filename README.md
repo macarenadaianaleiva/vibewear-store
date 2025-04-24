@@ -25,7 +25,7 @@ El objetivo del proyecto es desarrollar un sitio web de eCommerce escalable, imp
 
 ## 👥 Equipo
 
-- Nikol Hernandez 
+- Nikol Hernandez ([nikolha12](https://github.com/nikolha12))
 - Yamila Garcia ([yamiilaalejandra](https://github.com/yamiilaalejandra))
 - Macarena Leiva ([macarenadaianaleiva](https://github.com/macarenadaianaleiva))
 
